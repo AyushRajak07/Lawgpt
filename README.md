@@ -1,1 +1,2 @@
 # Lawgpt
+LawGPT is an AI-powered tool built on a large language model (LLM) designed to answer queries related to the Indian Constitution. Whether you're looking for legal references, explanations, or insights, LawGPT provides accurate and prompt responses tailored to your needs. In addition to answering legal questions, the project includes engaging interactive games and puzzles that make learning about the Constitution both fun and educational. LawGPT is powered by the VectorShift API, ensuring efficient and optimized query processing for a seamless user experience.
